@@ -1,6 +1,6 @@
-- 👋 Hi, I’m LAC
+- 👋 Hi, I’m Lucas.
 
-- 👀 I’m interested in coding, math, science, learning, and of course video games.
+- 👀 I’m interested in coding, math, science, learning, and of course video games 🎮.
 
 - 🌱 I’m currently learning Python and Git. I just started so don't expect me o be code wizard 🧙.
 
