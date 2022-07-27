@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in coding, math, science, learning, and of course video games 🎮.
 
-- 🌱 I’m currently learning Python and Git. I just started I can't really code yet.
+- 🌱 I’m currently learning Rust and Git. I just started I can't really code yet.
 
 - 💞️ I’m looking to collaborate on maybe anything idk.
 
